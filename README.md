@@ -1,1 +1,2 @@
-# Cheese-Omlette
+# Cheese Omlette
+Cheese Omlette is one of the most eaten everyday brekfast. It is very easy to make and also takes very less time. In this repository I will be explaining how to make this Cheese Omlette. 
